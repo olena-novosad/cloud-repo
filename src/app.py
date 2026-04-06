@@ -1,1 +1,2 @@
-print('cloud api v1.0 - HL7 FHIR ready')
+print('cloud api v1.0')
+# optimization: p99 latency < 
